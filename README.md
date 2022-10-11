@@ -19,7 +19,7 @@ Esse repositório armazena todos os arquivos referentes a matéria de Sistemas D
   
 <br>
   
-This repository stores all the files referring to the matter of Digital Systems
+This repository stores all the files referring to the subject of Digital Systems
 
 
 ## 📝 Licença / License
